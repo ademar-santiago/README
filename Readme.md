@@ -9,12 +9,12 @@
  💻⚙🛠Ferramentas: 
 ## Visual Studio Code, Git/GitHub, Play Kotlilang e Android Studio.
 ### 📈 Cursos Concluídos:
-- Programador WEB
+- Programador WEB 
 Carga Horária: 200 horas
 - Lógica de Programação
 Carga Horária: 10 hora
 - JavaScript Completo
-Carga Horária: 4 horas
+Carga Horária: 10 horas
 - CSS3
 Carga Horária: 19 horas
 - HTML Completo
