@@ -49,6 +49,10 @@ Carga Horária: 3 horas
 Carga Horária: 1 horas
 - Git Avançado
 Carga Horária: 2 horas
+- GitHub Zero to Hero
+Carga Horária: 8 horas
+- JavaScript ES6 Essencial
+Carga Horário: 4 horas
 - JavaScript do Básico ao Avançado
 Carga Horária: 5 horas
 - SEO Sem Segredos
