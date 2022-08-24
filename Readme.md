@@ -1,13 +1,13 @@
 # Olá, sou Ademar Santiago💻
 
  🤸Habilidades: 
-## HTML, CSS, Bootstrap. 
+## HTML, CSS. 
  
  ✔Atualmente estudando: 
-## JavaScript Developer - Angular Developer - Kotlin Developer. 
+## JavaScript, Python. 
 
  💻⚙🛠Ferramentas: 
-## Visual Studio Code, Git/GitHub, Play Kotlilang e Android Studio.
+## Visual Studio Code, Git/GitHub, Anaconda.
 ### 📈 Cursos Concluídos:
 - Programador WEB; 
 Carga Horária: 200 horas
@@ -71,6 +71,12 @@ Carga Horária: 2 horas
 Carga Horária: 1 horas
 - Comunicação;
 Carga Horária: 1 horas
+- Python Academy;
+Carga Horária 16 horas
+- Oracle + Alura = Lógica de programação I(Crie Programas com Javascript e HTML);
+Carga Horária 16 horas
+
+
 
 ![logo](https://user-images.githubusercontent.com/67010728/111368024-1fa27180-8674-11eb-9e58-edcc39b8355d.PNG)
 #### Redes Sociais:
