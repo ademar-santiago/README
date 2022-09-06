@@ -65,7 +65,7 @@ Carga Horária: 1 horas
 Carga Horária: 3 horas
 - Framework x Biblioteca;
 Carga Horária: 1 horas
-- Soft Skil;l
+- Soft Skil;
 Carga Horária: 2 horas
 - Trabalho Home Office;
 Carga Horária: 1 horas
@@ -75,6 +75,7 @@ Carga Horária: 1 horas
 Carga Horária 16 horas
 - Oracle + Alura = Lógica de programação I(Crie Programas com Javascript e HTML);
 Carga Horária 16 horas
+- Oracle + Alura = Javascript e HTML (Pratique lógica com desenhos, animações e um jogo);
 
 
 
