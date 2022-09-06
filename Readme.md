@@ -76,7 +76,7 @@ Carga Horária 16 horas
 - Oracle + Alura = Lógica de programação I(Crie Programas com Javascript e HTML);
 Carga Horária 16 horas
 - Oracle + Alura = Javascript e HTML (Pratique lógica com desenhos, animações e um jogo);
-
+Carga Horária 10 Horas
 
 
 ![logo](https://user-images.githubusercontent.com/67010728/111368024-1fa27180-8674-11eb-9e58-edcc39b8355d.PNG)
